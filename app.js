@@ -1,7 +1,7 @@
 // app.js
 AWS.config.update({
-    accessKeyId: 'AKIA5FTY7VFKPQQ52SG5',
-    secretAccessKey: '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',
+    accessKeyId: 'Enter_Access_Key_Id',
+    secretAccessKey: 'Enter_Secret_Key_Id',
     region: 'ap-southeast-2'
 });
 
